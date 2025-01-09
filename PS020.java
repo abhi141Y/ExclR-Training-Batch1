@@ -1,4 +1,4 @@
-public class PS020 {
+public class PS019 {
     public static void main(String[] args) {
         int terms = 10;
         int first = 0, second = 1;
